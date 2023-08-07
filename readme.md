@@ -17,6 +17,6 @@
 | 11 | [Построение модели для определения стоимости автомобилей](./Project_11/readme.md) | Исследовательский анализ, машинное обучение (регрессия) | sklearn, lightgbm, category_encoders, pandas, matplotlib, seaborn, numpy, re, time, phik |
 | 12 | [Прогнозирование потребности в заказах такси](./Project_12/readme.md) | Временные ряды, машинное обучение (регрессия) | statsmodels, sklearn, lightgbm, pandas, matplotlib, seaborn, time |
 | 13 | [Построение модели классификации комментариев для интернет-магазина](./Project_13/readme.md) | Машинное обучение для текстов (классификация) | sklearn, lightgbm, spacy, pandas, matplotlib, seaborn, time |
-| 14 | [Исследоваие данных о венчурных фондах и инвестициях в компании-стартапы](./Project_14/readme.md) | SQL | PostgreSQL |
+| 14 | [Исследование данных о венчурных фондах и инвестициях в компании-стартапы](./Project_14/readme.md) | SQL | PostgreSQL |
 | 15 | [Определение возраста клиентов по фотографии](./Project_15/readme.md) | Компьютерное зрение | tensorflow.keras, Pillow, pandas, matplotlib |
 | 16 | [Прогнозирование оттока телеком-оператора](./Project_16/readme.md) | Исследовательский анализ, машинное обучение (классификация) | sklearn, catboost, lightgbm, pandas, matplotlib, seaborn, numpy, re, time, phik |
