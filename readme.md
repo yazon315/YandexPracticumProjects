@@ -19,4 +19,4 @@
 | 13 | [Построение модели классификации комментариев для интернет-магазина](./Project_13/readme.md) | Машинное обучение для текстов (классификация) | sklearn, lightgbm, spacy, pandas, matplotlib, seaborn, time |
 | 14 | [Исследование данных о венчурных фондах и инвестициях в компании-стартапы](./Project_14/readme.md) | SQL | PostgreSQL |
 | 15 | [Определение возраста клиентов по фотографии](./Project_15/readme.md) | Компьютерное зрение | tensorflow.keras, Pillow, pandas, matplotlib |
-| 16 | [Прогнозирование оттока телеком-оператора](./Project_16/readme.md) | Исследовательский анализ, машинное обучение (классификация) | sklearn, catboost, lightgbm, pandas, matplotlib, seaborn, numpy, re, time, phik |
+| 16 | [Прогнозирование оттока телеком-оператора](./Project_16/readme.md) | Машинное обучение (классификация) | sklearn, catboost, lightgbm, pandas, matplotlib, seaborn, numpy, re, time, phik |
